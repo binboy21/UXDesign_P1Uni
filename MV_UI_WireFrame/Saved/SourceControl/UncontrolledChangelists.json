@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/PlayerUI.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/Mnimap_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/ActiveAbility_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/Healthbar_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/HealthPacks_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/MagicItem_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/MagicItemSelect_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/MagicPacks_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/ManaBar_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/PassiveAbility_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/Weapon_P1.uasset",
+				"C:/Users/Quinn/Documents/Unreal Projects/MV_UI_WireFrame/Content/UI/WeaponSelect_P1.uasset"
+			]
+		}
+	]
+}
